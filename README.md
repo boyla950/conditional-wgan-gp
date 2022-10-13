@@ -1,6 +1,6 @@
 # Deep Learning - Image Generation
 
-This repository contains my solutions to a 3nd year coursework assignment on Deep Learning at **Durham University.**
+This repository contains my solutions to a 3rd year coursework assignment on Deep Learning at **Durham University.**
 
 ## Outline
 
